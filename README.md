@@ -6,6 +6,7 @@ note: as if now this is a mrpack (modrinth pack) meaning you'll may need a third
 # Installation
 
 Modrinth app
+
 if your on Modrinth app then you click the plus icon on the left of the app window and a menu would pop up telling you to put a name for the instance but click the 'from file' button then drag the mrpack to the modrinth window or click the 'import from file' button and it should start importing the instance
 
 multi mc/ prism launcher 
